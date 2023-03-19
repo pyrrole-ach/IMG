@@ -1,0 +1,17 @@
+As the human cost of the pandemic caused by the severe acute respiratory
+syndrome coronavirus 2 (SARS-CoV-2) is still being witnessed worldwide, the
+development of broad-spectrum antiviral agents against emerging and
+re-emerging viruses is seen as a necessity to hamper the spread of infections.
+Various targets during the viral life-cycle can be considered to inhibit viral
+infection, from viral attachment to viral fusion or replication. Macromolecules
+represent a particularly attractive class of therapeutics due to their
+multivalency and versatility. Although several antiviral macromolecules hold
+great promise in clinical applications, the emergence of resistance after
+prolonged exposure urges the need for improved solutions. In the present
+article, the recent advancement in the discovery of antiviral peptides and
+polymers with diverse structural features and antiviral mechanisms is
+reviewed. Future perspectives, such as, the development of virucidal
+peptides/polymers and their coatings against SARS-CoV-2 infection,
+standardization of antiviral testing protocols, and use of artificial intelligence
+or machine learning as a tool to accelerate the discovery of antiviral
+macromolecules, are discussed
